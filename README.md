@@ -2,8 +2,11 @@
 Mini Project 1- Elena Dementieva_Sistem Informasi(A)-NIM_2509116008-Dasar-Dasar Pemrograman-Sistem Manajemen Pelatihan&Pertandingan Cougar Basketball Club
 
 Nama : Elena Dementieva
+
 Kelas: Sistem Informasi(A)
+
 NIM : 2509116008
+
 Tugas Praktikum : Mini Project 1-Dasar-Dasar Pemrograman_Sistem Manajemen Pelatihan&Pertandingan Cougar Basketball Club
 
 #Flowchart Sistem Manajemen Pelatihan dan Pertandingan Cougar Basketball Club
@@ -15,30 +18,40 @@ Program menampilkan Pelatihan & Pertandingan Cougar Basketball Club secara lengk
 Tampilan Menu Utama sistem manajemen pelatihan & Pertandingan Cougar Basketball Club
 <img width="1446" height="510" alt="Screenshot 2025-09-14 193032" src="https://github.com/user-attachments/assets/dd2d9046-f0fd-48a9-9c22-be745ba474bd" />
 
+#READ
+Pada bagian ini program akan menampilkan jadwal utama, sehingga kita bisa melihat jadwal utama
 Memasukkan nomor (1) untuk melihat jadwal utama
 <img width="1455" height="505" alt="Screenshot 2025-09-14 193048" src="https://github.com/user-attachments/assets/ea76e1d8-3be3-42c8-b564-645753e7d271" />
 
 Setelah menginput nomor (1), maka program akan menampilkan jadwal utama
 <img width="1455" height="518" alt="Screenshot 2025-09-14 193059" src="https://github.com/user-attachments/assets/7738fdc8-1d42-4b41-8b3e-8e02701a299f" />
 
+#CREATE
+Pada bagian ini program akan menambah jadwal baru ke dalam jadwal utama
 Masukkan nomor (2) untuk menambah jadwal utama
 <img width="1448" height="507" alt="Screenshot 2025-09-14 193116" src="https://github.com/user-attachments/assets/3e895b50-6c1b-45e6-af98-922fd7856da5" />
 
 Setelah memasukkan nomor (2), setelah itu isi tanggal, waktu, kegiatan dan lokasi yang ingin di masukkan untuk menambah jadwal yang ingin di tambah, setelah itu program akan menampilkan jadwal setelah di tambah
 <img width="1448" height="510" alt="Screenshot 2025-09-14 193250" src="https://github.com/user-attachments/assets/806367fb-7716-4dfa-bb91-20c84f0e6ea7" />
 
+#UPDATE
+Pada bagian ini program akan mengubah jadwal utama sesuai nomor jadwal yang di pilih
 Masukkan nomor (3) untuk mengubah jadwal yang ingin di ubah
 <img width="1458" height="508" alt="Screenshot 2025-09-14 193305" src="https://github.com/user-attachments/assets/143f44a2-9001-4d9f-9d88-da4bdbb437bf" />
 
 Setelah memasukkan nomor (3), setelah itu pilih nomor yang ingin di ubah, setelah itu isi tanggal, waktu, kegiatan dan lokasi yang ingin di masukkan untuk mengubah jadwal yang ingin di ubah, setelah itu program akan menampilkan jadwal setelah di ubah
 <img width="1452" height="492" alt="Screenshot 2025-09-14 193413" src="https://github.com/user-attachments/assets/c75326f0-6267-4e09-9b64-5d315fa718cc" />
 
+#DELETE
+Pada bagian ini program akan menghapus jadwal sesuai noomor jadwal yang di input
 Masukkan nomor (4) untuk menghapus jadwal yang ingin di hapus
 <img width="1447" height="493" alt="Screenshot 2025-09-14 193434" src="https://github.com/user-attachments/assets/db1d6802-06cf-4875-b32b-003c0435d877" />
 
 Setelah itu program akan menampilkan jadwal yang sudah ter hapus menjadi jadwal terbaru setelah terhapus
 <img width="1453" height="487" alt="Screenshot 2025-09-14 193453" src="https://github.com/user-attachments/assets/f8d411ee-2a34-409b-9638-53ff841778af" />
 
+#Exit
+Ini adalah bagian akhir dari program
 Masukkan nomor (5) untuk memilih keluar dan memilih opsi keluar program atau tidak, jika memilih 1.YA, maka akan langsung keluar program dan di arahkan ke ucapan "Terima kasih telah menggunakan sistem manajemen Cougar Basketball Club."
 <img width="1449" height="505" alt="Screenshot 2025-09-14 193517" src="https://github.com/user-attachments/assets/436aecf6-02e9-4cce-94eb-352c863cbd56" />
 
